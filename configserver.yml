@@ -1,0 +1,5 @@
+ build:
+    id: "101000"
+    type: "this git is dev type"
+    version: "this git is also version"
+    name: "this is git the dev version"
